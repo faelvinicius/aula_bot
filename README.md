@@ -42,15 +42,17 @@ $ apt install nodejs
 $ apt install npm  
 ```
 
-Dentro do diretório do projeto, executar os seguintes comandos:
+Dentro do diretório do projeto, executar o seguinte comando:
 
 ```sh
 $ npm init -y
-$ npm install telegraf 
-$ npm install dotenv 
-$ npm install puppeteer 
-$ npm install superagent  
-``` 
+$ npm install  
+```
+As seguintes dependencias serão instaladas:
+- dotenv
+- puppeteer
+- superagent
+- telegraf 
 
 #### Renomear arquivo env_exemplo para .env
 ```sh
