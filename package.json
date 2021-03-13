@@ -1,0 +1,27 @@
+{
+    "name": "aula_bot",
+    "version": "1.0.0",
+    "description": "A ideia desse projeto é de ter os dasboards criados pelo Grafana sempre na palma da mão. O projeto foi desenvolvido dentro da [Maxmilhas](https://www.maxmilhas.com.br) pelo Marcos Gomes, que fazia parte do time de monitoramento.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/faelvinicius/aula_bot.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/faelvinicius/aula_bot/issues"
+    },
+    "homepage": "https://github.com/faelvinicius/aula_bot#readme",
+    "dependencies": {
+      "dotenv": "^8.2.0",
+      "puppeteer": "^8.0.0",
+      "superagent": "^6.1.0",
+      "telegraf": "^3.33.3"
+    }
+  }
+  
