@@ -77,3 +77,5 @@ Para iniciar o projeto deverá executar o index.js
 ```sh
 $ node index.js
 ``` 
+
+###### OBS: Se for utilizar o bot para realizar prints no grafana, o grafana deve está acessivel para api do telegram. Grafana deve está publico ou com regra de firewall liberando o acesso para os Ips da api do telegram.
