@@ -1,0 +1,9 @@
+//Definicoes de token e iduser do Telegram
+TELEGRAM_TOKEN=
+USERS_ID=
+//Definicoes de login do Grafana
+GRAFANA_USER=
+GRAFANA_PASS=
+//Definicoes de login do zabbix
+ZABBIX_USER=
+ZABBIX_PASS=
