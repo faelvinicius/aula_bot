@@ -52,6 +52,10 @@ $ npm install puppeteer
 $ npm install superagent  
 ``` 
 
+#### Renomear arquivo env_exemplo para .env
+```sh
+$ mv env_exemplo .env 
+```
 
 #### Variaveis a serem alteradas no arquivo .env:
 
