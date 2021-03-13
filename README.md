@@ -55,12 +55,12 @@ $ npm install superagent
 
 #### Variaveis a serem alteradas no arquivo .env:
 
-- TELEGRAM_TOKEN=inserir o token do telegram
-- USERS_ID=inserir o id da conta do telegram que tera acesso ao bot
-- GRAFANA_USER=inserir conta de acesso do grafana
-- GRAFANA_PASS=inserir senha de acesso do grafana
-- ZABBIX_USER=inserir conta de acesso do zabbix
-- ZABBIX_PASS=inserir senha de acesso do zabbix
+- TELEGRAM_TOKEN=inserir o token do telegram.
+- USERS_ID=inserir o id da conta do telegram que tera acesso ao bot.
+- GRAFANA_USER=inserir conta de acesso do grafana.
+- GRAFANA_PASS=inserir senha de acesso do grafana.
+- ZABBIX_USER=inserir conta de acesso do zabbix.
+- ZABBIX_PASS=inserir senha de acesso do zabbix.
 
 ##### Obs: Para descobrir qual o id da conta do telegram, é só pesquisar no telegram pelo bot @userinfobot e digitar /start.
 
